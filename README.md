@@ -1,3 +1,5 @@
+Please Refer to [DigitalArche2](https://github.com/yangfengzzz/DigitalArche2) for the further development which will include rendering, Skeleton and GPU simulations.
+----------------------------------------------
 This repos is inspired by [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) which teach me how to code numerical algorithm by using C++. In this repos, files in src.common folder are all forked from [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev). And all my own work is located in src.vdb, unit_tests.vdb and manual_tests.vdb, which rewrite 3D Grids by using OpenVDB.
 
 [openvdb](https://github.com/AcademySoftwareFoundation/openvdb) is a well-known opensource C++ code which implemented the sparse data structure called VDB. In  the physical simualtion of computer graphics, sparsity can really save the memory and increase the speed of simualtions. This is the main reason I want to implement this repos when I learned from [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev).
