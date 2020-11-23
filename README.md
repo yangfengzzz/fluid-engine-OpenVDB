@@ -1,4 +1,4 @@
-Please Refer to [DigitalArche2](https://github.com/yangfengzzz/DigitalArche2) for the further development which will include rendering, Skeleton and GPU simulations.
+Fluid-engine-OpenVDB
 ----------------------------------------------
 This repos is inspired by [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev) which teach me how to code numerical algorithm by using C++. In this repos, files in src.common folder are all forked from [fluid-engine-dev](https://github.com/doyubkim/fluid-engine-dev). And all my own work is located in src.vdb, unit_tests.vdb and manual_tests.vdb, which rewrite 3D Grids by using OpenVDB.
 
